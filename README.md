@@ -60,10 +60,3 @@ Seguir aprendiendo, fortalecer mis conocimientos en desarrollo de software y con
 ¡Gracias por visitar mi perfil! 🚀
 
 Próximamente iré publicando los proyectos que he desarrollado durante mi formación universitaria y proyectos personales.
-
-## 🎯 Objetivo
-
-Seguir aprendiendo, fortalecer mis conocimientos en desarrollo de software y construir un portafolio que refleje mi crecimiento como desarrolladora.
-
-¡Gracias por visitar mi perfil! 🚀
-
