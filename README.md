@@ -1,8 +1,7 @@
 # 👋 Hola, soy Nidia Herrera
 
-💻 Soy estudiante de Ingeniería en Tecnologías de Información, apasionada por el desarrollo de software y el aprendizaje continuo.
+💻 Soy estudiante de Ingeniería en Tecnologías de Información, apasionada por el desarrollo de software y el aprendizaje continuo. Actualmente desarrollo proyectos de aplicaciones web, móviles y bases de datos, mientras amplío mis conocimientos en ciberseguridad y redes.
 
-Actualmente desarrollo proyectos de aplicaciones móviles, desarrollo web y bases de datos, buscando mejorar mis habilidades y crear soluciones útiles.
 
 ## 🚀 Tecnologías
 
